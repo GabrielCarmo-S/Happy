@@ -1,4 +1,4 @@
-![](github/nlw.jpg);
+![](github/nlw.jpg)
 
 <h1 align="center">
     Next Level Week by <img src="github/rocketseat.svg">
