@@ -52,7 +52,7 @@ export default function Orphanage() {
           <div className="images">
             {orphanage.images.map((image, index)=> {
               return (
-                <button key={image.id} className={activeImageIndex == index ? 'active' : ''} type="button" onClick={() => {setActiveImageIndex(index);}}>
+                <button key={image.id} className={activeImageIndex === index ? 'active' : ''} type="button" onClick={() => {setActiveImageIndex(index);}}>
                   <img src={image.url} alt={orphanage.name} />
                 </button>
               );
