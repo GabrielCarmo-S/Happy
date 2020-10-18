@@ -16,9 +16,15 @@ _________
 
 Esse projeto está sendo desenvolvido com as seguintes tecnologias:
 
-- [React](https://reactjs.org)
+- [NodeJS](https://nodejs.org/en/)
 - [TypeScript](https://www.typescriptlang.org/)
-- [Node.js](https://nodejs.org/en/)
+- [Express](https://expressjs.com/)
+- [React](https://pt-br.reactjs.org/)
+- [TypeORM](https://typeorm.io)
+- [SqLite](https://www.sqlite.org/index.html)
+
+- [Axios](https://github.com/axios/axios)
+- [Leaflet](https://leafletjs.com)
 
 ## 🔖 Layout
 To access the layout use [Figma](https://www.figma.com/).
