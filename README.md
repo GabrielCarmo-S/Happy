@@ -7,8 +7,14 @@
 
 _________
 
-### 🤔 Mas o que é isso? 
-A NLW é uma experiência online criada pela Rocketseat de uma semana com muito conteúdo prático, desafios, hacks e um projeto que nos ajudam a avançar para o próximo nível e impulsionar a nossa carreira.
+## 🥰 A Iniciativa
+
+A Happy se propõe a **facilitar o contato** entre a população e **ONGs Humanitárias**. 
+
+## 🤪 O Problema
+
+Reconhecemos que atualmente **não existe** nenhum **repositório** que liste as **ONGs de Bauru - São Paulo**, então entramos para realizar este serviço. Nosso propósito **não é arrecadar verbas** para as ONGs, ou funcionar como uma, nosso objetivo é **ligar as pessoas favorecidas pelas ONGs à sociedade**.
+
 
 _________
  
@@ -16,15 +22,22 @@ _________
 
 Esse projeto está sendo desenvolvido com as seguintes tecnologias:
 
-- [NodeJS](https://nodejs.org/en/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [Express](https://expressjs.com/)
-- [React](https://pt-br.reactjs.org/)
-- [TypeORM](https://typeorm.io)
-- [SqLite](https://www.sqlite.org/index.html)
+* **Backend:**
+  * TypeScript;
+  * ExpressJS;
+  * TypeORM;
+  * SQLite3;
+  * Yup.
+* **Frontend:**
+  * TypeScript;
+  * React;
+  * Leaflet;
+  * React-leaflet;
+  * Axios.
+* **Mobile:**
+  * React Native;
+  * Axios.
 
-- [Axios](https://github.com/axios/axios)
-- [Leaflet](https://leafletjs.com)
 
 ## 🔖 Layout
 To access the layout use [Figma](https://www.figma.com/).
@@ -77,4 +90,4 @@ $ npm start
 ```
 _________
 
-Agradecimentos [Rocketseat](https://rocketseat.com.br/)
+###### Developed on Next Level Week from [Rocketseat](https://rocketseat.com.br) 🚀 by [João Prado](https://www.linkedin.com/in/gabrielcarmo-s/).
