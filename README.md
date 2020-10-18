@@ -90,4 +90,4 @@ $ npm start
 ```
 _________
 
-###### Developed on Next Level Week from [Rocketseat](https://rocketseat.com.br) 🚀 by [João Prado](https://www.linkedin.com/in/gabrielcarmo-s/).
+###### Developed on Next Level Week from [Rocketseat](https://rocketseat.com.br) 🚀 by [Gabriel Carmo](https://www.linkedin.com/in/gabrielcarmo-s/).
