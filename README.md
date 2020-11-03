@@ -1,93 +1,84 @@
-![](github/nlw.jpg)
-
 <h1 align="center">
-    Next Level Week by <img src="github/rocketseat.svg">
-    </h1>
-</p>
-
-_________
-
-## 🥰 A Iniciativa
-
-A Happy se propõe a **facilitar o contato** entre a população e **ONGs Humanitárias**. 
-
-## 🤪 O Problema
-
-Reconhecemos que atualmente **não existe** nenhum **repositório** que liste as **ONGs de Bauru - São Paulo**, então entramos para realizar este serviço. Nosso propósito **não é arrecadar verbas** para as ONGs, ou funcionar como uma, nosso objetivo é **ligar as pessoas favorecidas pelas ONGs à sociedade**.
-
-
-_________
- 
-## 🚀 Tecnologias
-
-Esse projeto está sendo desenvolvido com as seguintes tecnologias:
-
-* **Backend:**
-  * TypeScript;
-  * ExpressJS;
-  * TypeORM;
-  * SQLite3;
-  * Yup.
-* **Frontend:**
-  * TypeScript;
-  * React;
-  * Leaflet;
-  * React-leaflet;
-  * Axios.
-* **Mobile:**
-  * React Native;
-  * Axios.
-
-
-## 🔖 Layout
-To access the layout use [Figma](https://www.figma.com/).
-
-_________
-
-### ✨ Sobre o projeto:
-<img src="github/logo.svg">
+    <img alt="Happy" src="./github/logo.svg" height="100px" />
+    <br>Next Level Week #3<br/>
+    Node.js | ReactJS | React Native
+</h1>
 
 <p align="center">
-<img width="600" src="github/img1.png">
+  <a href="#bookmark-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#boom-como-executar">Como Executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
 </p>
 
-_________
+<p align="center">
+  <img alt="design do projeto" width="650px" src="./github/happy.png" />
+<p>
 
+## :bookmark: Sobre
 
-## 🙅 Instalações e usos
+O **Happy** é uma aplicação Web e Mobile feito para facilitar visitas aos orfanatos próximos a você.
+  
+Este é um projeto desenvolvido durante a **[Next Level Week](https://nextlevelweek.com/)**, realizada pela **[@Rocketseat](https://github.com/Rocketseat)** durante os dias 12 a 18 de Outubro de 2020.
+  
+## :rocket: Tecnologias
 
-Clone ou faça o downlod desse repositório:
+-  [Typescript](https://www.typescriptlang.org/)
+-  [Node.js](https://nodejs.org/en/)
+-  [ReactJS](https://reactjs.org/)
+-  [React Native](http://facebook.github.io/react-native/)
+-  [Expo](https://expo.io/)
+-  [Express](https://expressjs.com/)
+-  [axios](https://github.com/axios/axios)
 
+## :boom: Como Executar
+
+- ### **Pré-requisitos**
+
+  - É **necessário** possuir o **[Node.js](https://nodejs.org/en/)** instalado no computador
+  - É **necessário** possuir o **[Git](https://git-scm.com/)** instalado e configurado no computador
+  - Também, é **preciso** ter um gerenciador de pacotes seja o **[NPM](https://www.npmjs.com/)** ou **[Yarn](https://yarnpkg.com/)**.
+  - Por fim, é **essencial** ter o **[Expo](https://expo.io/)** instalado de forma global na máquina
+
+1. Faça um clone do repositório:
+
+```sh
+  $ git clone https://github.com/GabrielCarmo-S/Happy.git
 ```
-# Clone o repositório
-$ git clone https://github.com/GabrielCarmo-S/happy
+
+2. Executando a Aplicação:
+
+```sh
+  # API
+  $ cd server
+  # Instalando as dependências do projeto.
+  $ yarn # ou npm install
+  # Configurando o banco de dados e criando as tabelas.
+  $ yarn knex:migrate # ou npm run knex:migrate
+
+  # Inicie a API
+  $ yarn start # ou npm start
+
+  # Aplicação web
+  $ cd web
+  # Instalando as dependências do projeto.
+  $ yarn # ou npm install
+  # Inicie a aplicação web
+  $ yarn start # ou npm start
+
+  # Aplicação mobile
+  $ cd mobile
+  # Instalando as dependências do projeto.
+  $ yarn # ou npm install
+  # Inicie a aplicação mobile
+  $ yarn start # ou npm start
 ```
 
-Acesse a pasta server e faça as instalações:
 
-```
-# Acesse a pasta do backend
-$ cd server/
+## :memo: Licença
 
-# Instale as dependencias
-$ npm install
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
-# running on port 3333
-```
-Acesse a pasta web e faça as instalações:
-
-```
-# Acesse a pasta do frontend
-$ cd web/
-
-# Instale as dependencias
-$ npm install
-
-# Rode 
-$ npm start
-
-# running on port 3000
-```
-_________
-
-###### Developed on Next Level Week from [Rocketseat](https://rocketseat.com.br) 🚀 by [Gabriel Carmo](https://www.linkedin.com/in/gabrielcarmo-s/).
+---
+<sup>Projeto desenvolvido com a tutoria de [Diego Fernandes](https://github.com/diego3g), da [Rocketseat](rocketseat.com.br).</sup>
+ 

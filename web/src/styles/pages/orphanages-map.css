@@ -99,3 +99,49 @@
 #page-map .map-popup .leaflet-popup-tip-container {
     display: none;
 }
+
+@media (max-width: 720px) {
+    #page-map {
+        flex-direction: column-reverse;
+
+        border-bottom: 50px;
+    }
+    
+    #page-map aside {
+        width: 100%;
+        padding: 15px 0 15px 0;
+
+        text-align: center;
+    }
+
+    #page-map aside img{
+        width: 50px;
+    }
+
+    #page-map aside h2 {
+        font-size: 20px;
+        line-height: 20px;
+
+        margin-top: 10px;
+    }
+    
+    #page-map aside p {
+        font-size: 14px;
+        line-height: 16px;
+
+        margin-top: 10px;
+    }
+
+    #page-map aside footer {
+        margin-top: 10px;
+              
+        font-size: 16px;
+        line-height: 16px;
+    }
+
+    #page-map .create-orphanage {
+        right: 10px;
+        top: 10px;
+    }
+}
+
