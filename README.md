@@ -23,11 +23,11 @@ Este é um projeto desenvolvido durante a **[Next Level Week](https://nextlevelw
 
 
 <div>
-  <img alt="Happy" src="./github/n1.gif" height="100%" />
+  <img alt="Happy" src="./github/n1.gif" width="400px" />
   <br/>
   <img alt="design do projeto" width="200px" src="./github/m1.gif" />
   <br />
-  <img alt="Happy" src="./github/n2.gif" height="100%" />
+  <img alt="Happy" src="./github/n2.gif" width="400px" />
   <br />
   <img alt="design do projeto" width="200px" src="./github/m2.gif" />
 
