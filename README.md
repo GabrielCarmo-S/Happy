@@ -22,15 +22,14 @@ O **Happy** é uma aplicação Web e Mobile feito para facilitar visitas aos orf
 Este é um projeto desenvolvido durante a **[Next Level Week](https://nextlevelweek.com/)**, realizada pela **[@Rocketseat](https://github.com/Rocketseat)** durante os dias 12 a 18 de Outubro de 2020.
 
 
-<div>
-  <img alt="Happy" src="./github/n1.gif" width="400px" height="500px" />
-  <br/>
-  <img alt="design do projeto" width="200px" src="./github/m1.gif" />
-  <br />
-  <img alt="Happy" src="./github/n2.gif" width="400px" />
-  <br />
-  <img alt="design do projeto" width="200px" src="./github/m2.gif" />
+<div align="center">
+  <img alt="Happy" src="./github/n1.gif" height="425" />
+  <img alt="design do projeto" height="425" src="./github/m1.gif" />
+</div>
 
+<div align="center">
+  <img alt="Happy" src="./github/n2.gif" height="425" />
+  <img alt="design do projeto" height="425" src="./github/m2.gif" />
 </div>
   
 ## :rocket: Tecnologias
