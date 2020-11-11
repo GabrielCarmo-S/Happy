@@ -24,7 +24,7 @@ Este é um projeto desenvolvido durante a **[Next Level Week](https://nextlevelw
 
 <div align="center">
   <img alt="Happy" src="./github/n1.gif" height="425" width="800" />
-  <img alt="design do projeto" height="425" src="./github/m1.gif" />
+  <img alt="design do projeto" height="425" width="200" src="./github/m1.gif" />
 </div>
 
 <div align="center">
